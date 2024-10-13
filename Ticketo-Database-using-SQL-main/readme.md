@@ -1,13 +1,14 @@
-# World Life Expectancy Analysis
+# TICKETO Platform Database
 
 ## Project Overview
-This project is focused on analyzing global life expectancy data using SQL. The main objectives were to clean, transform, and explore data related to life expectancy across different countries and demographics to gain insights into trends, correlations, and patterns over time.
+This project involved the design and development of the SQL database for **Ticketo**, a platform that manages customer transactions, bookings, and events. The primary objective was to optimize data management and enable efficient analysis of key metrics, helping the platform provide real-time insights into customer behavior, event performance, and revenue.
 
 ## Key Features
-- **Data Cleaning**: Removed inconsistencies, handled missing data, and standardized the dataset.
-- **Exploratory Data Analysis (EDA)**: Conducted queries to identify trends, patterns, and insights in life expectancy data.
-- **Key Metrics**: Explored relationships between socio-economic factors (e.g., GDP, healthcare expenditure) and life expectancy.
+- **Database Design**: Developed a robust SQL database architecture to manage data from 10 distinct sources, including payments, advertising campaigns, and customer feedback.
+- **Interactive Dashboard**: Designed a Tableau dashboard to visualize key metrics such as revenue, event performance, and customer trends.
+- **Optimized Data Management**: Improved the storage and processing of data to enhance the platform's efficiency and ability to generate insights.
+- **Collaborative Development**: Worked in a group of four to execute database enhancements and support strategic decision-making as part of academic studies.
 
 ## Technologies Used
-- **Database Management System (DBMS)**: MySQL
-- **SQL**: For data cleaning and exploratory analysis.
+- **Database Management System (DBMS)**: MySQL for database architecture and management.
+- **Data Visualization Tool**: Tableau for dashboard creation and visualizing key performance metrics.
